@@ -17,7 +17,7 @@ python3 -m venv env
 ```
 
 ```
-source env/bin/activate
+source venv/bin/activate
 ```
 
 Install dependencies from the requirements.txt file:
