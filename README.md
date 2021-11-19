@@ -7,7 +7,7 @@ https://github.com/Jakondak/mynalabs_task
 ```
 
 ```
-cd kittygram
+cd mynalabs_task
 ```
 
 Create and activate the virtual environment:
