@@ -1,3 +1,6 @@
+This script downloades phrases/sententences/song lines from Twitter and azlyrics.com By Nicki Minaj
+
+
 ### 1. How to start:
 
 Clone the repository and go to it on the command line:
