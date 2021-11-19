@@ -5,7 +5,7 @@ import pandas as pd
 
 
 def start():
-    # Запускаю парсер тветеров
+    # Запускаю парсер твитеров
     END_DATE = date.today()
     FROM_DATE = "2017-01-01"
     MAX_RESULTS = 10
