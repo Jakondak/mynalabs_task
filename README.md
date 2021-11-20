@@ -1,4 +1,5 @@
-This script downloades phrases/sententences/song lines from Twitter and azlyrics.com By Nicki Minaj
+This script downloades phrases/sententences/song lines from Twitter and azlyrics.com By Nicki Minaj. The script
+only takes ~8 min and gets ~6000 rows of data.
 
 
 ### 1. How to start:
