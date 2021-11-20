@@ -33,6 +33,12 @@ python3 -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+Run start.py file:
+
+```
+python3 start.py
+```
+
 ### 2. How data is downloaded:
 
 A) Twitter:
