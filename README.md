@@ -68,6 +68,7 @@ I have to find only her phrases) and downloaded lyrics from html file.
   3.2) Bad:
 - Lines of songs with a lot of repetition
 
+
 ### 3. What else can be used:
 
 Steps:
@@ -78,3 +79,4 @@ dataset where there is the voice of Nicki Minaj
 2) After I have to download audios from YouTube interviews with Nicki.
 3) And determine the marks where the voice of the Nicki is and where it is not 
 using the model
+4) At the end of take the voice-to-text model (https://github.com/NVIDIA/NeMo) and get Niki's answers on questions
