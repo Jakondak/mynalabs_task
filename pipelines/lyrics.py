@@ -9,6 +9,9 @@ def lyrics_sentence(link, time_sleep):
     final_list = []
     for link in page("a"):
         try:
+            if len(final_list) > 5:
+                return final_list
+
             if "lyrics/nickiminaj/" in link["href"]:
                 link = 'https://www.azlyrics.com' + link["href"][2:]
                 time.sleep(time_sleep)

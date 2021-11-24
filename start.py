@@ -1,6 +1,6 @@
 from datetime import date
-from .pipelines.tweets import tweets_wo_url
-from .pipelines.lyrics import lyrics_sentence
+from pipelines.tweets import tweets_wo_url
+from pipelines.lyrics import lyrics_sentence
 import pandas as pd
 
 
