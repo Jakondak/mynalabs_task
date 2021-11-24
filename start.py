@@ -8,7 +8,7 @@ def start():
     # Запускаю парсер твитеров
     END_DATE = date.today()
     FROM_DATE = "2017-01-01"
-    MAX_RESULTS = 10
+    MAX_RESULTS = 3000
     USER_NAME = "nickiminaj"
     tweets_list = tweets_wo_url(USER_NAME, FROM_DATE, END_DATE, MAX_RESULTS)
 
